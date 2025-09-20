@@ -1,0 +1,13 @@
+# Node & React Native
+MyApp/node_modules/
+MyApp/.expo/
+MyApp/.env
+
+# Python
+backend/venv/
+backend/__pycache__/
+backend/.env
+
+# OS
+.DS_Store
+Thumbs.db
